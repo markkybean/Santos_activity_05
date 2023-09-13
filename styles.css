@@ -12,10 +12,15 @@
 }
 a{
     padding: 20px;
+
     font-style: italic;
     font-weight: bold;
     border-radius: 20px;
     background-color: rgb(149, 221, 193) !important;
+}
+i{
+    font-size: 40px;
+    margin: 10px;
 }
 #fb{
     color: rgb(16, 96, 187);
